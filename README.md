@@ -59,6 +59,15 @@
     <a align="center" href="https://zerotomastery.io/cheatsheets/javascript-cheatsheet-the-advanced-concepts/?utm_source=udemy&utm_medium=coursecontent">
         Advanced JavaScript Cheat Sheet
     </a>
+    <a align="center" href="https://gitmoji.dev/">
+        Gitmoji Commits
+    </a>
+    <a align="center" href="https://www.conventionalcommits.org/en/v1.0.0/">
+        Conventional Commits
+    </a>
+    <a align="center" href="https://medium.com/linkapi-solutions/conventional-commits-pattern-3778d1a1e657">
+        More about <i>Conventional Commits</i>(PT-br)
+    </a>
 </details>
 
 <br>

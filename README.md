@@ -23,6 +23,17 @@
     </ul>
 </details>
 
+<details>
+    <summary><h2>Picture in Picture</h3></summary>
+    <ul>
+        <li>When loaded, you need choose what screen you want share. Ps: a youtube video</li>
+        <img src="./picture-in-picture/img/choose_screen.png" />
+        <li>After that, you will need to go back to application tab. At this point you will see a notice of which screen you are sharing. Click in <b>Start</b> and a window will overlap all your screens with the screen you chose to share, including games.</li>
+        <img src="./picture-in-picture/img/shared_screen.png" />
+        <li>You can resize and move this screen as much as you like.</b></li>
+    </ul>
+</details>
+
 <!-- Details Section-->
 <details align="center">
     <summary align="center">

@@ -5,7 +5,7 @@
 <details>
     <summary><h2>Infinity Scroll</h3></summary>
     <ul>
-        <li>Accese the <a href="https://unsplash.com/documentation">documentation</a></li>
+        <li>Accese the <a href="https://unsplash.com/documentation">api documentation</a></li>
         <li>Click in <b>Register as developer</b></li>
         <img src="./infinity-scroll/img/register_as_developer.png" />
         <li>When already login, in the sidebar click on <b>Location</b> located in <i>Schema</i> section</li>
@@ -31,6 +31,23 @@
         <li>After that, you will need to go back to application tab. At this point you will see a notice of which screen you are sharing. Click in <b>Start</b> and a window will overlap all your screens with the screen you chose to share, including games.</li>
         <img src="./picture-in-picture/img/shared_screen.png" />
         <li>You can resize and move this screen as much as you like.</b></li>
+    </ul>
+</details>
+
+<details>
+    <summary><h2>Joke Teller</h3></summary>
+    <ul>
+        <li>Accese the <a href="https://www.voicerss.org/">api documentation</a></li>
+        <li>Click in <b>Profile</b> and make a registration</li>
+        <img src="./joke-teller/img/registration.png" />
+        <li>When already login, you will see that your account is inactive. Click in <b>Active account</b> for receive an email.</li>
+        <img src="./joke-teller/img/inactive.png" />
+        <li>In your email, search for activation email that API will send to you. Remember to look at the trash. Copy the code, paste in url input and enter.</li>
+        <img src="./joke-teller/img/active_account.png" />
+        <li>Now your account is active! Copy the <b>API Key</b></li>
+        <img src="./joke-teller/img/active.png" />
+        <li>Now you can replace your key in the <code>script.js</code> file and see the application working.</li>
+        <img src="./joke-teller/img/replace.png" />
     </ul>
 </details>
 

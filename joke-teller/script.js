@@ -11,7 +11,7 @@ function tellMe(joke) {
   const jokeString = joke.trim().replace(/ /g, '%20');
   // VoiceRSS Speech Parameters
   VoiceRSS.speech({
-    key: 'YOUR_API_KEY_HERE',
+    key: '4e235c37ba934014bd963adcc28c3358',
     src: jokeString,
     hl: 'en-us',
     r: 0,

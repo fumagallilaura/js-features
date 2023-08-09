@@ -2,6 +2,8 @@
 
 > This repository have projects that I wrote with propose to teach some mentees. I put on github because I hope this can help more people. Enjoy and good learn.
 
+<hr>
+
 ### Deploys:
 
 - [Book keeper](https://fumagallilaura.github.io/js-projects/book-keeper/)
@@ -19,10 +21,10 @@
 - [Spock rock game](https://fumagallilaura.github.io/js-projects/spock-rock-game/)
 - [Video player](https://fumagallilaura.github.io/js-projects/video-player/)
 
-### How works:
+<hr>
 
 <details>
-    <summary><h4>Infinity Scroll</h4></summary>
+    <summary>Infinity Scroll</summary>
     <ul>
         <li>Accese the <a href="https://unsplash.com/documentation">api documentation</a></li>
         <li>Click in <b>Register as developer</b></li>
@@ -42,7 +44,7 @@
     </ul>
 </details>
 <details>
-    <summary><h4>Picture in Picture</h4></summary>
+    <summary>Picture in Picture</summary>
     <ul>
         <li>When loaded, you need choose what screen you want share. Ps: a youtube video</li>
         <img src="./picture-in-picture/img/choose_screen.png" />
@@ -52,7 +54,7 @@
     </ul>
 </details>
 <details>
-    <summary><h4>Joke Teller</h4></summary>
+    <summary>Joke Teller</summary>
     <ul>
         <li>Accese the <a href="https://www.voicerss.org/">api documentation</a></li>
         <li>Click in <b>Profile</b> and make a registration</li>
@@ -67,6 +69,8 @@
         <img src="./joke-teller/img/replace.png" />
     </ul>
 </details>
+
+<hr><br>
 
 <!-- Details Section-->
 <details align="center">
@@ -92,6 +96,8 @@
 
 <br>
 
+<hr>
+
 <!-- Footer -->
 <samp>
     <p align="center">
@@ -101,4 +107,6 @@
     </p>
 </samp>
 
-> Credits to design: https://jacinto.design/
+<hr>
+
+<p align="right"> Credits to design: https://jacinto.design/ </p>

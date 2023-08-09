@@ -3,7 +3,7 @@
 > This repository have projects that I wrote with propose to teach some mentees. I put on github because I hope this can help more people. Enjoy and good learn.
 
 <details>
-    <summary><h3>Infinity Scroll</h3></summary>
+    <summary><h4>Infinity Scroll</h4></summary>
     <ul>
         <li>Accese the <a href="https://unsplash.com/documentation">api documentation</a></li>
         <li>Click in <b>Register as developer</b></li>
@@ -24,7 +24,7 @@
 </details>
 
 <details>
-    <summary><h2>Picture in Picture</h3></summary>
+    <summary><h4>Picture in Picture</h4></summary>
     <ul>
         <li>When loaded, you need choose what screen you want share. Ps: a youtube video</li>
         <img src="./picture-in-picture/img/choose_screen.png" />
@@ -35,7 +35,7 @@
 </details>
 
 <details>
-    <summary><h2>Joke Teller</h3></summary>
+    <summary><h4>Joke Teller</h4></summary>
     <ul>
         <li>Accese the <a href="https://www.voicerss.org/">api documentation</a></li>
         <li>Click in <b>Profile</b> and make a registration</li>

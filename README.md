@@ -22,7 +22,6 @@
         <img src="./infinity-scroll/img/replace_key.png" />
     </ul>
 </details>
-
 <details>
     <summary><h4>Picture in Picture</h4></summary>
     <ul>
@@ -33,7 +32,6 @@
         <li>You can resize and move this screen as much as you like.</b></li>
     </ul>
 </details>
-
 <details>
     <summary><h4>Joke Teller</h4></summary>
     <ul>

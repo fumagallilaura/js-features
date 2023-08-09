@@ -2,6 +2,25 @@
 
 > This repository have projects that I wrote with propose to teach some mentees. I put on github because I hope this can help more people. Enjoy and good learn.
 
+### Deploys:
+
+- [Book keeper](https://fumagallilaura.github.io/js-projects/book-keeper/)
+- [Calculator](https://fumagallilaura.github.io/js-projects/calculator/)
+- [Custom countdown](https://fumagallilaura.github.io/js-projects/custom-countdown/)
+- [Drag and drop](https://fumagallilaura.github.io/js-projects/drag-and-drop/)
+- [Form validator](https://fumagallilaura.github.io/js-projects/form-validator/)
+- [Infinity sroll](https://fumagallilaura.github.io/js-projects/infinity-scroll/)
+- [Joker teller](https://fumagallilaura.github.io/js-projects/joke-teller/)
+- [Light dark mode](https://fumagallilaura.github.io/js-projects/light-dark-mode/)
+- [Math sprint game](https://fumagallilaura.github.io/js-projects/math-sprint-game/)
+- [Navigation nation](https://fumagallilaura.github.io/js-projects/navigation-nation/)
+- [Paint clone](https://fumagallilaura.github.io/js-projects/paint-clone/)
+- [Picture in picture](https://fumagallilaura.github.io/js-projects/picture-in-picture/)
+- [Spock rock game](https://fumagallilaura.github.io/js-projects/spock-rock-game/)
+- [Video player](https://fumagallilaura.github.io/js-projects/video-player/)
+
+### How works:
+
 <details>
     <summary><h4>Infinity Scroll</h4></summary>
     <ul>

@@ -3,7 +3,7 @@
 > This repository have projects that I wrote with propose to teach some mentees. I put on github because I hope this can help more people. Enjoy and good learn.
 
 <details>
-    <summary><h2>Infinity Scroll</h3></summary>
+    <summary><h3>Infinity Scroll</h3></summary>
     <ul>
         <li>Accese the <a href="https://unsplash.com/documentation">api documentation</a></li>
         <li>Click in <b>Register as developer</b></li>

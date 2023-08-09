@@ -100,3 +100,5 @@
         "Happy Coding👨‍💻!"
     </p>
 </samp>
+
+> Credits to design: https://jacinto.design/

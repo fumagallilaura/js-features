@@ -6,20 +6,20 @@
 
 ### Deploys:
 
-- [Book keeper](https://fumagallilaura.github.io/js-projects/book-keeper/)
-- [Calculator](https://fumagallilaura.github.io/js-projects/calculator/)
-- [Custom countdown](https://fumagallilaura.github.io/js-projects/custom-countdown/)
-- [Drag and drop](https://fumagallilaura.github.io/js-projects/drag-and-drop/)
-- [Form validator](https://fumagallilaura.github.io/js-projects/form-validator/)
-- [Infinity sroll](https://fumagallilaura.github.io/js-projects/infinity-scroll/)
-- [Joker teller](https://fumagallilaura.github.io/js-projects/joke-teller/)
-- [Light dark mode](https://fumagallilaura.github.io/js-projects/light-dark-mode/)
-- [Math sprint game](https://fumagallilaura.github.io/js-projects/math-sprint-game/)
-- [Navigation nation](https://fumagallilaura.github.io/js-projects/navigation-nation/)
-- [Paint clone](https://fumagallilaura.github.io/js-projects/paint-clone/)
-- [Picture in picture](https://fumagallilaura.github.io/js-projects/picture-in-picture/)
-- [Spock rock game](https://fumagallilaura.github.io/js-projects/spock-rock-game/)
-- [Video player](https://fumagallilaura.github.io/js-projects/video-player/)
+- [Book keeper](https://fumagallilaura.github.io/js-features/book-keeper/)
+- [Calculator](https://fumagallilaura.github.io/js-features/calculator/)
+- [Custom countdown](https://fumagallilaura.github.io/js-features/custom-countdown/)
+- [Drag and drop](https://fumagallilaura.github.io/js-features/drag-and-drop/)
+- [Form validator](https://fumagallilaura.github.io/js-features/form-validator/)
+- [Infinity sroll](https://fumagallilaura.github.io/js-features/infinity-scroll/)
+- [Joker teller](https://fumagallilaura.github.io/js-features/joke-teller/)
+- [Light dark mode](https://fumagallilaura.github.io/js-features/light-dark-mode/)
+- [Math sprint game](https://fumagallilaura.github.io/js-features/math-sprint-game/)
+- [Navigation nation](https://fumagallilaura.github.io/js-features/navigation-nation/)
+- [Paint clone](https://fumagallilaura.github.io/js-features/paint-clone/)
+- [Picture in picture](https://fumagallilaura.github.io/js-features/picture-in-picture/)
+- [Spock rock game](https://fumagallilaura.github.io/js-features/spock-rock-game/)
+- [Video player](https://fumagallilaura.github.io/js-features/video-player/)
 
 <hr>
 
